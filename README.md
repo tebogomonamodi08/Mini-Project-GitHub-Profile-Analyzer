@@ -8,10 +8,10 @@ A simple Python CLI tool that uses the GitHub API to fetch and display statistic
   - Name
   - Number of public repositories
   - List of latest repositories
-  - Total number of stars (bonus)
-  - Languages used (bonus)
-  
-- Optional: Use a GitHub token for authenticated requests.
+  - Total number of stars 
+  - Languages used 
+
+  - Maybe: Use a GitHub token for authenticated requests.
 
 ## 🛠️ Tech Stack
 
